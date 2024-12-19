@@ -6,6 +6,7 @@ $(function(){
     infinite: false
   });
 //  sobaka
+  //ss
   $('select').styler();
 
   $('.header__btn-menu').on('click', function(){
