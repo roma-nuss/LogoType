@@ -5,7 +5,7 @@ $(function(){
     prevArrow: '<button type="button" class="slick-btn slick-prev"></button>',
     infinite: false
   });
-
+//  sobaka
   $('select').styler();
 
   $('.header__btn-menu').on('click', function(){
